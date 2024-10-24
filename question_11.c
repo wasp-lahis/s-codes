@@ -1,7 +1,22 @@
+/**
+ * @file question_11.c
+ * @author Lahis Almeida (lahis.gomes.almeida@gmail.com)
+  * @brief 
+ * @version 0.1
+ * @date 2024-10-24
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
+
 #include <stdio.h>
 
-
-// from question 10
+/**
+ * @brief Calculate string size. 
+ * @param string_ input string.
+ * @return size of string
+ * @
+**/
 int calculate_string_size(char *string_) {
    
     // Conta qts elementos existem até o utlimo caracter '\0' (nulo)
@@ -13,6 +28,12 @@ int calculate_string_size(char *string_) {
     return count;
 }
 
+
+/**
+ * @brief Reverse string. 
+ * @param string_ input string.
+ * @
+**/
 void reverse_string(char *str) {
     int init_count = 0;
     int final_count = 0;
@@ -31,6 +52,7 @@ void reverse_string(char *str) {
         final_count--;
     }
 }
+
 
 int main() {
     char word[500];

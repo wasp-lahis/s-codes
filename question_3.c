@@ -1,11 +1,14 @@
-/******************************************************************************
+/**
+ * @file question_3.c
+ * @author Lahis Almeida (lahis.gomes.almeida@gmail.com)
+  * @brief 
+ * @version 0.1
+ * @date 2024-10-24
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
 
-Welcome to GDB Online.
-  GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, 
-  C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, COBOL, HTML, CSS, JS
-  Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
 #include <stdio.h>
 
 int main()
