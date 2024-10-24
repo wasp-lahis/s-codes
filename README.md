@@ -11,7 +11,7 @@ This repository aims to store the answers of **Programming Skills Challenge**. H
 # Code Execution
 
 - To run **C codes** please copy the code and paste in [**OnlineGDB**](https://onlinegdb.com)
-- To run **SQL codes** please copy the code and paste in [**OnlineGDB**](https://sqliteonline.com)
+- To run **SQL codes** please copy the code and paste in [**SQLiteOnline**](https://sqliteonline.com)
 
 # Support
 
